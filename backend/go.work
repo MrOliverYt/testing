@@ -1,0 +1,3 @@
+go 1.21.4
+
+use ..\..\..\..\Spark-Code-Test-Boilerplate-2024\backend
